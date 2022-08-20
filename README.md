@@ -1,4 +1,4 @@
-<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js">
 
 <div style="text-align: center; font-family: helvetica ;"> 
 
