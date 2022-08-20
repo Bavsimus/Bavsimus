@@ -9,10 +9,3 @@
 <h3> ⏳ <i style="font-family: Andalé Mono;">Barber shop app</i>.</h3>
 <h3> ⏳  <i style="font-family: Andalé Mono;">Do app</i>.</h3>
 
- </div>
-
-<div id="lottiecontainer" class="flex justify-center items-center" style="width: 100%; height: 540px; overflow: hidden; margin: auto; cursor: default; background: transparent;"><div id="zl91o" class="spinner" style="display: none;"></div> 
-
-<lottie-player autoplay="true" loop="" src="https://assets10.lottiefiles.com/packages/lf20_ygx3im07.json" id="71rrq" speed="1" class="lottieanimation" background="transparent" style="width: 100%; height: 540px; overflow: hidden; margin: auto; cursor: default; background: transparent;"></lottie-player>
-
-</div>
