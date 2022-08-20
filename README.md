@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:2f2f2f,100:1b1b1b&text=Hi,%20I%27m%20Talib!%20%F0%9F%91%8B&animation=scaleIn&height=200&&fontSize=24&fontAlignY=40&fontAlign=50&fontColor=FFFFFF)
+![header]([https://capsule-render.vercel.app/api?type=waving&color=0:2f2f2f,100:1b1b1b&text=Hi,%20I%27m%20Talib!%20%F0%9F%91%8B&animation=scaleIn&height=200&&fontSize=24&fontAlignY=40&fontAlign=50&fontColor=FFFFFF](https://capsule-render.vercel.app/api?type=waving&color=0:4a4e69,100:8d99ae&text=Hi,%20I%27m%20Talib!%20%F0%9F%91%8B&animation=scaleIn&height=200&&fontSize=24&fontAlignY=40&fontAlign=50&fontColor=FFFFFF))
 
 <div style="text-align: center; font-family: helvetica ;"> 
 
