@@ -2,8 +2,6 @@
 
 <div style="text-align: center; font-family: helvetica ;"> 
 
-<h2>🥱🔥 I'm <h style="font-family: impact;">Talib, 🔥🥱</h> </h2>
-
 <h3> 🎓 i'm graduated at<i style="font-family: Andalé Mono;"> Kocaeli University</i> on <i style="font-family: Andalé Mono;"> Computer Porgramming</i>.</h3>
 <h3> 👨‍💻 finished <i style="font-family: Andalé Mono;">42 Kocaeli Piscine</i> at <i style="font-family: Andalé Mono;">6,5 Level</i>.</h3>
 <h3> 🔧 working on <i style="font-family: Andalé Mono;">My personal website</i>.</h3>
