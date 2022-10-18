@@ -4,7 +4,7 @@
 
 <h3> 🎓 i'm graduated at<i style="font-family: Andalé Mono;"> Kocaeli University</i> on <i style="font-family: Andalé Mono;"> Computer Programming</i>.</h3>
  <h3> 🎓 i'm student at<i style="font-family: Andalé Mono;"> Istinye University</i> on <i style="font-family: Andalé Mono;"> Computer Engineering</i>.</h3>
-<h3> 👨‍💻 student in <i style="font-family: Andalé Mono;">42 Kocaeli</i></h3>
+<h3> 👨‍💻 student in <i style="font-family: Andalé Mono;">42 Kocaeli</i>.</h3>
 <h3> 🔧 working on <i style="font-family: Andalé Mono;">Do. app</i>.</h3>
 <h3> ⏳ <i style="font-family: Andalé Mono;"</i>Trying to be alive.</h3>
 </div>
