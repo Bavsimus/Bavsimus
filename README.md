@@ -5,5 +5,5 @@
 <h3> 🎓 graduated at<i style="font-family: Andalé Mono;"> Kocaeli University</i> on <i style="font-family: Andalé Mono;"> Computer Programming</i>.</h3>
  <h3> 🎓 student at<i style="font-family: Andalé Mono;"> Istinye University</i> on <i style="font-family: Andalé Mono;"> Computer Engineering</i>.</h3>
 <h3> 👨‍💻 old student <i style="font-family: Andalé Mono;">42 Kocaeli</i>.</h3>
-<h3> 🔧 working on <i style="font-family: Andalé Mono;">Do. app</i>.</h3>
+<h3> 🔧 working on <i style="font-family: Andalé Mono;">gameProject</i>.</h3>
 </div>
