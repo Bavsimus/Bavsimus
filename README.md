@@ -1,15 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:4a4e69,100:8d99ae&text=Hi,%20I%27m%20Talib!%20%F0%9F%91%8B&animation=scaleIn&height=200&&fontSize=24&fontAlignY=40&fontAlign=50&fontColor=FFFFFF)
 <hr>
-<div style="text-align: center;"> 
 
 
-<h1 align="center">Hi 👋, I'm Talib</h1>
 <h3 align="center">A passionate frontend developer from Turkiye</h3>
-
+<p align="center">
 - 🔭 I’m currently working on **Unity**
 
 - 🌱 I’m currently learning **Unity**
-
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/talibyesildal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="talibyesildal" height="30" width="40" /></a>
