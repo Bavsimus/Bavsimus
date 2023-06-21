@@ -7,6 +7,12 @@
 - 🔭 I’m currently working on <b>teamSnake_FirstGame</b>
 </p>
 <p align="center">
+- 🎓 I’m student at <a href="https://www.istinye.edu.tr/" target="_blank" rel="noreferrer"><b>Istinye University</b></a> on Comp. Engineering.
+</p> 
+<p align="center">
+- 🎓 I’m graduated <a href="https://www.kocaeli.edu.tr/" target="_blank" rel="noreferrer"><b>Kocaeli University</b></a> on Comp. Programming.
+</p> 
+<p align="center">
 - 🌱 I’m currently learning <b>Unity</b>
 </p>
 <hr>
