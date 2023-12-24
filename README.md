@@ -4,7 +4,7 @@
 
 <h3 align="center">A passionate frontend developer from Turkiye</h3>
 <p align="center">
-- 🔭 I’m currently working on <b>teamSnake_FirstGame</b>
+- 🔭 I’m currently working on <b>untitled_game for ZERO TASK</b>
 </p>
 <p align="center">
 - 🎓 I’m student at <a href="https://www.istinye.edu.tr/" target="_blank" rel="noreferrer"><b>Istinye University</b></a> on Comp. Engineering.
