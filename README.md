@@ -2,7 +2,7 @@
 <hr>
 
 
-<h3 align="center">A passionate frontend developer from Turkiye</h3>
+<h3 align="center">A passionate developer from Turkiye</h3>
 <p align="center">
 - 🔭 I’m currently working on <b>untitled_game for ZERO TASK</b>
 </p>
