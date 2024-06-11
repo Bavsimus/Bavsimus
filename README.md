@@ -12,8 +12,8 @@
 
 <h1 align="center">🌐</h1>
 <p align="center">
-    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/209384013645873162" alt="Discord" url="https://discord.gg/pjJrfaKGNZ">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" url="">
+    <p url="https://discord.gg/pjJrfaKGNZ"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/209384013645873162"></p>
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="https://discord.gg/pjJrfaKGNZ">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" url="">
     <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X" url="">
 </p>
