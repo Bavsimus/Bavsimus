@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:42FF00,100:0F0F0F&text=Hi,%20I%27m%20Talib!%20%F0%9F%91%8B&animation=scaleIn&height=200&&fontSize=24&fontAlignY=40&fontAlign=50&fontColor=FFFFFF)
 
-# <h1 align="center" url="https://talibyesildal.site">⚡ visit my site talibyesildal.site <br></h1>
+## <h1 align="center" url="https://talibyesildal.site">⚡ visit my site talibyesildal.site ⚡</h1>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bavsimus&theme=shadow_green&hide_border=false" alt="bavsimus" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bavsimus&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="bavsimus" />
