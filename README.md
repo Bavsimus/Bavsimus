@@ -18,3 +18,6 @@
     <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X" url="">
 </p>
 
+<p align="center">
+    <img src="https://cdn.discordapp.com/attachments/1219766352730919064/1249995663471542272/Frame_7_3.png?ex=666954ad&is=6668032d&hm=762502c52781938942f06889ca2242e6cb201b8596a5ec4cc1b9ccf5e40ed47f&" url="https://talibyesildal.site">
+</p>
