@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:4a4e69,100:8d99ae&text=Hi,%20I%27m%20Talib!%20%F0%9F%91%8B&animation=scaleIn&height=200&&fontSize=24&fontAlignY=40&fontAlign=50&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:42FF00,100:0F0F0F&text=Hi,%20I%27m%20Talib!%20%F0%9F%91%8B&animation=scaleIn&height=200&&fontSize=24&fontAlignY=40&fontAlign=50&fontColor=FFFFFF)
 
 ## <h2 align="center">🔭 I’m currently working on a game project with my crew<br><br>⚡ visit my site talibyesildal.site</h2>
 
