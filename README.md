@@ -2,10 +2,9 @@
 
 ## <h2 align="center">🔭 I’m currently working on a game project with my crew<br><br>⚡ visit my site talibyesildal.site</h2>
 
-<h1 align="center"></h1>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bavsimus&theme=shadow_green&hide_border=false" alt="bavsimus" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bavsimus&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="bavsimus" />
-</p>
+</p><h1 align="center"></h1>
 
 <h1 align="center">💻</h1>
 
